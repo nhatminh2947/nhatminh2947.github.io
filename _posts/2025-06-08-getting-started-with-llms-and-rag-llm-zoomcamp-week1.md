@@ -35,7 +35,7 @@ With RAG, the robot’s answers become not just smart, but also accurate and tai
 
 ## RAG Architecture
 
-Before diving into the hands-on part, let’s take a look at how RAG works at a high level.  
+Before diving into the hands-on part, let’s take a look at how RAG works at a high level.
 Understanding the architecture will help you see how each component fits together in the workflow.
 
 RAG is made up of two main parts:
@@ -69,10 +69,10 @@ In the first week of [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcam
 
 ## Setting Up the Environment
 
-To get started, you need a development environment that is easy to set up and ready for experimentation.  
-For this course, I wanted a setup that was quick and hassle-free. Instead of installing everything locally, I used [GitHub Codespaces](https://github.com/features/codespaces).  
-This allowed me to spin up a development environment in the cloud, with all the necessary tools pre-installed.  
-I could write and run code directly in the browser, and even run Docker containers without any issues.  
+To get started, you need a development environment that is easy to set up and ready for experimentation.
+For this course, I wanted a setup that was quick and hassle-free. Instead of installing everything locally, I used [GitHub Codespaces](https://github.com/features/codespaces).
+This allowed me to spin up a development environment in the cloud, with all the necessary tools pre-installed.
+I could write and run code directly in the browser, and even run Docker containers without any issues.
 All of the code in this lesson can be run in **Jupyter Notebook**.
 
 **Installing libraries:**  
