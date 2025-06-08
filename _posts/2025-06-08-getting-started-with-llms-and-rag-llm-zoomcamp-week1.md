@@ -1,7 +1,6 @@
 ---
-layout: post
 title:  "Getting Started with LLMs and RAG: My First Week in LLM Zoomcamp 2025"
-date:   2024-06-08 17:57
+date:   2025-06-08 17:57+07:00
 categories: [LLM Zoomcamp 2025]
 ---
 
@@ -54,6 +53,7 @@ RAG is made up of two main parts:
 Below is a simple diagram showing the flow of information in a RAG system:
 
 ```mermaid
+%%{init: {"theme":"base", "themeVariables": { "primaryColor": "#e6fffa", "primaryTextColor": "#22543d", "fontSize": "18px", "edgeLabelBackground":"#ffffff" }}}%%
 flowchart TD
     User[User Question]
     Retrieve[Find Relevant Info from Documents]

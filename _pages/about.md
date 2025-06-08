@@ -3,6 +3,15 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I’m Minh (or Ming, if that’s easier)! 👋
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Welcome to my blog! I’m a machine learning engineer with over five years of experience, currently working at Agoda. My journey in tech has taken me through a variety of projects, from building robust data pipelines to supporting the launch of new machine learning models in production.
+
+For a long time, I’ve wanted to share what I learn along the way. Honestly, I’ve hesitated to start this blog because I was worried about criticism and feedback. But I’ve realised it’s time to embrace that fear and just get started. After all, everyone has to begin somewhere. I hope this blog becomes a space to document my journey and connect with others who are learning too.
+
+**What can you expect here?**  
+Mostly tech topics such as machine learning, AI, large language models, and practical tutorials. Occasionally, I’ll share a bit about my personal journey and experiences in the field.
+
+A fun fact about me: I love video games, but I’m not exactly a pro player. That’s actually what inspired me to pursue a Master’s degree and learn how to teach machines to play games for me! 😄
+
+Thanks for stopping by. I hope you find something useful or interesting here, and I look forward to connecting with fellow learners and enthusiasts.
