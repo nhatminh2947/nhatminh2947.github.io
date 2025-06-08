@@ -1,4 +1,10 @@
-# Getting Started with LLMs and RAG: My First Week in LLM Zoomcamp 2025
+---
+layout: post
+title:  "Getting Started with LLMs and RAG: My First Week in LLM Zoomcamp 2025"
+date:   2024-06-08 17:57
+categories: [LLM Zoomcamp 2025]
+---
+
 
 ## Table of Contents
 - [Introduction](#introduction)
